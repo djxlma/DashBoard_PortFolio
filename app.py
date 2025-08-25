@@ -172,6 +172,8 @@ elif pagina == "Análise de Dados":
             Este dataset possui informações sobre ameaças cibernéticas globais de 2015 a 2024, incluindo variáveis categóricas e numéricas, 
             como país, tipo de ameaça, ano, quantidade de incidentes e valor de impacto estimado.  
             A análise permite identificar padrões, tendências e correlações relevantes para decisões estratégicas de segurança.
+            <br><br>
+            Link Dataset: https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024
         </div>
         """,
         unsafe_allow_html=True
@@ -180,11 +182,11 @@ elif pagina == "Análise de Dados":
     st.markdown(
         """
         <div style="background-color:#0E1117; padding:15px; border-radius:8px; color:#ffffff; margin-top:10px;">
-            <h4>Perguntas de análise sugeridas</h4>
+            <h4>Perguntas de análise</h4>
             <ul style="margin-left:20px;">
-                <li>Qual o valor médio dos pedidos por categoria/status?</li>
-                <li>Existe diferença significativa entre pedidos B2B e não-B2B?</li>
-                <li>Há correlação entre quantidade (Qty) e valor do pedido?</li>
+                <li>Qual é a perda financeira média por tipo de ataque (Attack Type)?</li>
+                <li>Há diferença significativa no tempo de resolução de incidentes (Incident Resolution Time) entre ataques originados por "Nation-state" e "Hacker Group"?</li>
+                <li>Como a perda financeira (Financial Loss) se distribui entre os países (Country) mais afetados?</li>
             </ul>
         </div>
         """,
