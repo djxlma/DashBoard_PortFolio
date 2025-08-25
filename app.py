@@ -92,7 +92,7 @@ Carreira em desenvolvimento na área de Segurança Ofensiva, com foco em aprimor
 técnicas em testes de invasão e análise de vulnerabilidades. Experiência no suporte a rotinas do
 setor, interação com clientes e fornecedores, organização do ambiente de trabalho e suporte às
 atividades diárias da equipe, sempre comprometido com a qualidade e segurança dos serviços
-prestados
+prestados.
 """)
 
 with tabs[1]:
@@ -103,11 +103,11 @@ with tabs[1]:
     Participação dos projetos práticos proporcionados pela instituição, atuando em
     desafios da Tech Mahindra e da Oceans 20 com experiências práticas e alinhadas às
     demandas do mercado.      
-- Formação: Python - RocketSeat
-- Formação em andamento: Java - RocketSeat
-- Formação em andamento: HackTheBox CyberSecurity Academy
-- Formação em andamento: Linux Fundamentos - FIAP
-- Formação em andamento: Redes de Computadores - FIAP
+- Formação: Python - RocketSeat.
+- Formação em andamento: Java - RocketSeat.
+- Formação em andamento: HackTheBox CyberSecurity Academy.
+- Formação em andamento: Linux Fundamentos - FIAP.
+- Formação em andamento: Redes de Computadores - FIAP.
                 
 """)
     st.subheader("Experiências Profissionais")
