@@ -85,9 +85,10 @@ with tabs[0]:
     st.markdown("""
 **Djalma Moreira de Andrade Filho**  
 📧 djalmamoreirafilho@gmail.com  
-🔗 LinkedIn - Djalma - LINK AQUI
+🔗 LinkedIn - Djalma - https://www.linkedin.com/in/djalma-andrade-6211682b6/                
 💻 [GitHub - Djalma] - https://github.com/djxlma
-                Carreira em desenvolvimento na área de Segurança Ofensiva, com foco em aprimorar habilidades
+                
+Carreira em desenvolvimento na área de Segurança Ofensiva, com foco em aprimorar habilidades
 técnicas em testes de invasão e análise de vulnerabilidades. Experiência no suporte a rotinas do
 setor, interação com clientes e fornecedores, organização do ambiente de trabalho e suporte às
 atividades diárias da equipe, sempre comprometido com a qualidade e segurança dos serviços
@@ -99,22 +100,37 @@ with tabs[1]:
     st.subheader("Formação Acadêmica")
     st.markdown("""
 - Engenharia de Software — FIAP (Fev/2024 - Dez/2027)  
-  Projetos práticos com Tech Mahindra e Oceans 20
+    Participação dos projetos práticos proporcionados pela instituição, atuando em
+    desafios da Tech Mahindra e da Oceans 20 com experiências práticas e alinhadas às
+    demandas do mercado.      
+- Formação: Python - RocketSeat
+- Formação em andamento: Java - RocketSeat
+- Formação em andamento: HackTheBox CyberSecurity Academy
+- Formação em andamento: Linux Fundamentos - FIAP
+- Formação em andamento: Redes de Computadores - FIAP
+                
 """)
     st.subheader("Experiências Profissionais")
     st.markdown("""
 - Academia Point Fitness — Gestor de Atendimento (03/2020 a 08/2021)  
-  Cadastro de alunos, gestão de pagamentos, atendimento ao cliente.
+  Fui responsável por operar o sistema voltado ao cadastro de novos alunos, atualização de
+informações e gestão de pagamentos. Isso otimizou o acompanhamento das mensalidades e
+a emissão de recibos. Executei um atendimento ágil e organizado, garantindo uma boa
+experiência aos clientes.
 
 - Banco Bradesco — Estagiário em Cash Management (04/2025 - Atual)  
-  Suporte aos processos, validação de dados, controle de informações.
+  Atuo no suporte aos processos de Cash Management, garantindo a fluidez e padronização
+das informações enviadas ao time de implementação. Minhas atividades envolvem validar
+dados em solicitações, conferir controles internos, revisar planilhas em Excel e
+apresentações em PowerPoint, além de monitorar a atualização dos sistemas para assegurar
+a confiabilidade das informações e apoiar a tomada de decisão.
 """)
 
 with tabs[2]:
     st.header("Skills")
     st.subheader("Hard Skills")
     st.markdown("""
-- Python, Java, Java Swing, JavaScript, HTML, CSS, Cisco Packet Tracer  
+- Conhecimento de Python, Java, Java Swing, JavaScript, HTML, CSS, Cisco Packet Tracer.
 - Redes de Computadores (básico)  
 - Linux (básico)  
 - Pacote Office (intermediário)
